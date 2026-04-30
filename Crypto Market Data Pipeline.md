@@ -6,7 +6,7 @@ You are required to build a simple data pipeline that extracts cryptocurrency ma
 
 ---
 
-## Tools Required
+### Tools Required
 
 You will use:
 
@@ -24,11 +24,17 @@ Required Python libraries:
 
 ---
 
-# Project Instructions
+### Project Instructions
 
-## Step 1: Set Up Your Project Folder
+#### Step 1: Set Up Your Project Folder
 
-Create a project folder named:
+#### Step 2: Install the Required Python Libraries
 
-```text
-crypto-market-data-project
+Install the Python libraries needed for the project.
+
+**The libraries should allow you to:**
+
+- Connect to an API
+- Convert API data into a table format
+- Connect Python to PostgreSQL
+
