@@ -2,7 +2,7 @@
 
 Build a data engineering and machine learning platform that helps Kenyan car buyers compare the cost of importing cars from Japan with buying cars locally.
 
-Extract car listing data for vehicles manufactured from **2015 onwards** from platforms such as:
+Extract car listing data for vehicles manufactured from **2018 onwards** from platforms such as:
 
 - **SBT Japan** — `www.sbtjapan.com`
 - **Car From Japan** — `carfromjapan.com`
