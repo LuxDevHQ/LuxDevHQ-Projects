@@ -103,7 +103,7 @@ Create a simple web app where users can:
 
 ---
 
-### 📊 Deliverables
+### **Deliverables.**
 
 You must submit:
 
@@ -115,7 +115,7 @@ You must submit:
 
 ---
 
-### ⭐ Evaluation Criteria
+### **Evaluation Criteria.**
 
 Your project will be graded based on:
 
@@ -128,7 +128,7 @@ Your project will be graded based on:
 
 ---
 
-### 🚀 Goal of This Project
+### **Goal of This Project.**
 
 By the end, you should be able to:
 
